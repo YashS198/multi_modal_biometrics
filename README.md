@@ -1,1 +1,1 @@
-# study
+# multi_modal_biometrics
