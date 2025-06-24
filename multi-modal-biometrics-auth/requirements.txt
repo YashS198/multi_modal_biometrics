@@ -1,0 +1,9 @@
+numpy
+opencv-python
+scikit-learn
+tensorflow
+pyaudio
+SpeechRecognition
+face-recognition
+fingerprint-recognition
+matplotlib
