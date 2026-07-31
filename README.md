@@ -1,4 +1,4 @@
-🔐 Multi-Modal Biometrics for Mobile Authentication
+Multi-Modal Biometrics for Mobile Authentication
 
 A deep learning-based authentication system that combines Face Recognition and Fingerprint Recognition to improve the accuracy, security, and reliability of mobile user authentication.
 
